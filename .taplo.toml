@@ -1,0 +1,2 @@
+# Exclude specific files or all TOML files from formatting
+exclude = ["config.toml"]
